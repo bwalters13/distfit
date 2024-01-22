@@ -1494,7 +1494,7 @@ class distfit:
                          st.invgauss, st.invweibull, st.johnsonsb, st.johnsonsu, st.laplace, st.levy,
                          st.logistic, st.loggamma, st.loglaplace, st.lognorm, st.lomax, st.maxwell, st.mielke,
                          st.nakagami, st.norm, st.pareto, st.pearson3, st.powerlaw, st.powerlognorm, st.powernorm,
-                         st.rdist, st.reciprocal, st.rayleigh, st.rice, st.recipinvgauss, st.semicircular, st.t,
+                         st.rdist, st.reciprocal, st.rayleigh, st.rice, st.recipinvgauss, st.semicircular, st.skewnorm, st.t,
                          st.triang, st.truncexpon, st.truncnorm, st.tukeylambda, st.uniform, st.vonmises,
                          st.vonmises_line, st.wald, st.weibull_min, st.weibull_max, st.wrapcauchy]
 
